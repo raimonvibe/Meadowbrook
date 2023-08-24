@@ -1,6 +1,7 @@
 # Meadowbrook Children's Farm Website
 
-Welcome to the Meadowbrook Children's Farm website project. This website serves as a portal to explore the farm, learn about the animals, activities, and more.
+Welcome to my rendition of the Meadowbrook Children's Farm website. I, [Raimoncoding](http://raimoncoding.com), have remade this website to showcase my skills in web development.
+
 
 ## Overview
 
