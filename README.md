@@ -57,5 +57,5 @@ This project is available under the [CCA 3.0 license](https://html5up.net/licens
 ## Contact
 
 For questions, support, or inquiries:
-- Email: info@raimoncoding.nl
+- Email: info@raimonvibe.com
 - Website: [raimonvibe.com](http://raimonvibe.com)
